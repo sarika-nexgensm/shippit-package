@@ -1,0 +1,19 @@
+{
+    "name": "nexgensm/shippit",
+    "description": "shippit",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sarika",
+            "email": "sarika.sics@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nexgensm\\Shippit\\": "src/"
+        }
+    }
+}
